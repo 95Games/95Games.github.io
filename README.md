@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
 <style>
@@ -37,7 +37,7 @@ margin-bottom: 40px;
       background-color: #f1f1f1;
     }
 </style>
-</head>
+
 <body>
 <div class="container">
   <!-- Image upload section with drag and drop -->
